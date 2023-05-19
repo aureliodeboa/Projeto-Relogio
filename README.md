@@ -1,33 +1,44 @@
-Relógio Digital
+# Relógio Digital
+
 Este é um projeto de Front-end para um relógio digital simples. O relógio exibe a hora atual em um formato digital de 24 horas. É uma aplicação leve e fácil de usar, perfeita para acompanhar o tempo enquanto trabalha, estuda ou realiza outras atividades.
 
-Screenshot
+![image](https://github.com/aureliodeboa/Projeto-Relogio/assets/53971991/baddfcfb-21f9-4ac9-bac9-120a73350f8f)
 
-Tecnologias Utilizadas
-HTML5: Linguagem de marcação para estruturar o conteúdo da página.
-CSS3: Folhas de estilo para a aparência visual e layout.
-JavaScript: Linguagem de programação para manipulação de datas e exibição do relógio.
-Como Usar
-Clone este repositório para o seu ambiente local usando o seguinte comando:
 
-bash
-Copy code
-git clone[ https://github.com/aureliodeboa/Projeto-Relogio.git
-Abra o arquivo index.html em seu navegador web.
+## Tecnologias Utilizadas
 
-O relógio digital será exibido na tela, mostrando a hora atual.
+- HTML5: Linguagem de marcação para estruturar o conteúdo da página.
+- CSS3: Folhas de estilo para a aparência visual e layout.
+- JavaScript: Linguagem de programação para manipulação de datas e exibição do relógio.
 
-O relógio será atualizado automaticamente a cada segundo para exibir a hora corrente.
+## Como Usar
 
-Contribuição
+1. Clone este repositório para o seu ambiente local usando o seguinte comando:
+
+   ```
+   git clone  https://github.com/aureliodeboa/Projeto-Relogio.git
+   ```
+
+2. Abra o arquivo `index.html` em seu navegador web.
+
+3. O relógio digital será exibido na tela, mostrando a hora atual.
+
+4. O relógio será atualizado automaticamente a cada segundo para exibir a hora corrente.
+
+## Contribuição
+
 Contribuições são bem-vindas! Se você encontrar algum problema, tiver sugestões ou melhorias para o projeto, sinta-se à vontade para abrir uma "issue" ou enviar uma solicitação de "pull request".
 
 Certifique-se de seguir as diretrizes de contribuição do projeto.
 
-Licença
-Este projeto está licenciado sob a MIT License.
+## Licença
 
-Link do Projeto
-Para visualizar o projeto em funcionamento, acesse o seguinte link: https://aesthetic-flan-07b072.netlify.app/
+Este projeto está licenciado sob a [MIT License](LICENSE).
+
+## Link do Projeto
+
+Para visualizar o projeto em funcionamento, acesse o seguinte link: [Relógio Digital](https://aesthetic-flan-07b072.netlify.app/)
+
+---
 
 Espero que este README seja útil e forneça todas as informações necessárias para executar e contribuir para o projeto. Se você tiver alguma dúvida adicional, não hesite em entrar em contato.
