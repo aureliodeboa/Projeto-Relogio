@@ -33,9 +33,7 @@ Contribuições são bem-vindas! Se você encontrar algum problema, tiver sugest
 
 Certifique-se de seguir as diretrizes de contribuição do projeto.
 
-## Licença
 
-Este projeto está licenciado sob a [MIT License](LICENSE).
 
 ## Link do Projeto
 
