@@ -3,7 +3,7 @@
 Este é um projeto de Front-end para um relógio digital simples. O relógio exibe a hora atual em um formato digital de 24 horas. É uma aplicação leve e fácil de usar, perfeita para acompanhar o tempo enquanto trabalha, estuda ou realiza outras atividades.
 
 ![image](https://github.com/aureliodeboa/Projeto-Relogio/assets/53971991/a3bbfaa9-8bc0-4a52-98af-69f9bee21e39)
-Responsivo
+
 ![image](https://github.com/aureliodeboa/Projeto-Relogio/assets/53971991/6455231a-2acf-4a76-983f-cde755612975)
 
 
