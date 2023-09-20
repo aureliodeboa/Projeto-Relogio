@@ -37,7 +37,7 @@ Certifique-se de seguir as diretrizes de contribuição do projeto.
 
 ## Link do Projeto
 
-Para visualizar o projeto em funcionamento, acesse o seguinte link: [Relógio Digital](https://aesthetic-flan-07b072.netlify.app/)
+Para visualizar o projeto em funcionamento, acesse o seguinte link: [Relógio Digital](https://relogio-digital-responsive.netlify.app/)
 
 ---
 
